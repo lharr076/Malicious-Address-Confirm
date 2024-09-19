@@ -3,7 +3,8 @@
 The images will show how to setup secure your API key in AWS Secrets Manager.
 
 When you log into your AWS console, and in the search bar type secrets manager and on the page, select "Store a new secret" <br />
-<img src="https://i.imgur.com/OEj0VcS" height="80%" width="80%" alt="Store New Secret"/>
+<img src="https://i.imgur.com/OEj0VcS.png" height="80%" width="80%" alt="Store New Secret"/>
+<br />
 <br />
 On the next page under "Secret type" select "other type of secret" where under that you see an option for "API key"
 <img src="https://i.imgur.com/h0ses2s" height="80%" width="80%" alt="Store New Secret"/>
