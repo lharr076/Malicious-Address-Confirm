@@ -1,7 +1,7 @@
 # Malicious-Address-Confirm
  This is a combination of redacting your personal IP address/s and also check remaining address with AbuseIPDB for malicious addresses within your logs to aid in next steps in securing your SOHO or organization.
 The images will show how to setup secure your API key in AWS Secrets Manager.
-<p align="center">
+
 1. When you log into your AWS console, and in the search bar type secrets manager and on the page, select "Store a new secret" <br />
 <img src="https://i.imgur.com/OEj0VcS.png" height="80%" width="80%" alt="Store New Secret"/>
 2. On the next page under "Secret type" select "other type of secret" where under that you see an option for "API key"
@@ -39,4 +39,3 @@ This command will prompt you for:
 The credentials will be saved in the ~/.aws/credentials file (Linux/Mac) or C:\Users\YOUR_USERNAME\.aws\credentials (Windows).
 
 At this point you should be good to go. If you get any errors just let me know and I will help on resolving any issues!
-</p>
